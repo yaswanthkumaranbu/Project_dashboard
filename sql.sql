@@ -1,0 +1,2 @@
+create table projects(    id INT AUTO_INCREMENT PRIMARY KEY,
+project varchar(255),status varchar(255),project_leader varchar(255),percentage1 int,member1 varchar(255),percentage2 int,member2 varchar(255),percentage3 int,member3 varchar(255),percentage4 int)
